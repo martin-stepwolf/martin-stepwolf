@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- I am an IT Engineer and Web Developer with 3 years of experience.
+- I work with LAMP Stack, so I am PHP Backend Developer. 
+- The goal of this GitHub is show my skills as Developer. 
+
+![Github](https://github-readme-stats.vercel.app/api?username=martin-stepwolf&show_icons=true&hide_border=false&title_color=428db9&icon_color=428db9&bg_color=f8f8ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-stepwolf&layout=compact)
 <!--
 **martin-stepwolf/martin-stepwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
